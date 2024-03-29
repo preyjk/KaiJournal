@@ -25,6 +25,7 @@
 cd journal
 npm install
 npm run serve
+```
 
 ## 部分 2: journal_manager (管理员客户端)
 
@@ -48,6 +49,7 @@ npm run serve
 cd journal_manager
 npm install
 npm run serve
+```
 
 ## 部分 3: journal_server (Node.js服务端)
 
@@ -71,3 +73,4 @@ cd journal_server
 npm install
 cd src
 node server.js
+```
