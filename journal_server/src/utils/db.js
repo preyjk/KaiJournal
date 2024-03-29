@@ -1,5 +1,5 @@
 //引入mysql包
-var mysql = require("mysql");
+var mysql = require("mysql2");
 // 建立数据库链接
 function createConnection() {
   var connection = mysql.createConnection({
